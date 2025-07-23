@@ -1,4 +1,4 @@
-import miniF2F.lean.src.valid
+import LeanDisco.miniF2F_valid
 import Lean
 
 /--
